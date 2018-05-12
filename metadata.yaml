@@ -1,0 +1,38 @@
+_repo: The-Fertility-of-the-Unfit_16254
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Waddell, Rutherford
+    birthdate: 1849
+    deathdate: 1932
+    gutenberg_agent_id: '6576'
+    url: http://www.gutenberg.org/2009/agents/6576
+    wikipedia: http://www.teara.govt.nz/1966/W/WaddellRutherford/en
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chapple, W. A. (William Allan)
+    alias: Chapple, William Allan
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '6575'
+    url: http://www.gutenberg.org/2009/agents/6575
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2005-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Involuntary sterilization'
+- !lcc 'HV'
+- !lcsh 'Eugenics'
+- !lcsh 'Population'
+title: The Fertility of the Unfit
+url: http://www.gutenberg.org/ebooks/16254
